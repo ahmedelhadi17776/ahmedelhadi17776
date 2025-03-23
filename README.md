@@ -1,4 +1,4 @@
-## Hi, I'm Ahmed Elhadi ✨
+## Hi, I'm Ahmed Elhadi
 
 **Computer Science Student** | **AI Scientist**  
 Passionate about building scalable systems and intelligent solutions that bridge software engineering and cutting-edge AI.
