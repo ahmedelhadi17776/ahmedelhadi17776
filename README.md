@@ -15,7 +15,7 @@ Passionate about building scalable systems and intelligent solutions that bridge
 **AI & Data Science**  
 ▹ **Machine Learning**: Predictive modeling, NLP, and reinforcement learning.  
 ▹ **Deep Learning**: CNNs, RNNs, GANs, and Transformer architectures.  
-▹ **Generative AI**: Fine-tuning LLMs (GPT, BERT), RAG pipelines, and multi-agent systems.  
+▹ **Generative AI**: Fine-tuning LLMs (GPT, BERT), RAG pipelines, and multi-agent systems.
 ▹ **Computer Vision**: Image classification, object detection, and segmentation.  
 
 ---
