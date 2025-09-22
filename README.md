@@ -1,34 +1,95 @@
-## Hi, I'm Ahmed Elhadi 
- 
-**Computer Science Student** | **AI Scientist**  
-Passionate about building scalable systems and intelligent solutions that bridge software engineering and cutting-edge AI.
+<h1 align="center">Hi 👋, I'm Ahmed Elhadi</h1>
+<h3 align="center">AI / ML Engineer | Backend Developer | System Designer</h3>
 
---- 
-
-### Expertise
-
-**Backend Development & System Design**  
-
-▹Proficient in backend architecture: **RESTful APIs**, microservices, **database design** (SQL/NoSQL), **caching** (Redis, Memcached), and **security** (OAuth, JWT).  
-
-▹ Experienced with **Python FastAPI**, **Django**, **Express.js**, **Next.js**, and **React**.  
-
-▹ Strong focus on **system design principles**, scalability, and performance optimization.
-
-**AI & Data Science**  
-
-▹ **Machine Learning**: Predictive modeling, NLP, and reinforcement learning.  
-
-▹ **Deep Learning**: CNNs, RNNs, GANs, and Transformer architectures.  
-
-▹ **Generative AI**: Fine-tuning LLMs (GPT, BERT), RAG pipelines, and multi-agent systems.
-
-▹ **Computer Vision**: Image classification, object detection, and segmentation.  
+<p align="center">
+  <a href="https://linkedin.com/in/ahmedelhadi17"><img src="https://img.shields.io/badge/-Ahmed%20Elhadi-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:ahmedelhadi1777@gmail.com"><img src="https://img.shields.io/badge/-ahmedelhadi1777%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-# Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🚀 About Me
+- 🎓 B.Sc. in Artificial Intelligence Science @ New Mansoura University (2021–2025)  
+- 🤖 Passionate about **Generative AI, NLP, Computer Vision, Multi-Agent Systems**  
+- ⚙️ Skilled in **Backend Development & System Design** (REST APIs, Microservices, Databases, Cloud)  
+- 🏆 IEEE Published | Hackathon Finalist | AI Club Founder (200+ members, 15+ workshops)  
+- ✨ Motto: *Always learning, always building!*
 
 ---
-*“Always learning, always building!”*
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
+
+**AI / ML & Data**  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>
+
+**Databases & Cloud**  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+
+---
+
+## 📌 Featured Projects
+- 🔹 **[Compass](https://github.com/ahmedelhadi17776/Compass)** — LLM-powered multi-agent platform with RAG pipelines & ETL (1M+ records/day).  
+- 🔹 **Smart Irrigation System** — IoT+ML system reducing water use by 35%, published in IEEE.  
+- 🔹 **AI-Powered Arabic Summarization** — Low-resource NLP pipeline, ICMTC finalist.  
+
+---
+
+
+## 🏆 Achievements
+- 🥇 IEEE Publication (Smart Agriculture)  
+- 🥈 Finalist — ECPC (ICPC), ICMTC  
+- 🥉 Hackathon Placements — AUC, MOHESR, Climathon  
+- 🌍 Founder & Organizer — 15+ workshops, hackathons, 300+ participants  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ahmedelhadi17776&show_icons=true&theme=tokyonight"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelhadi17776&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/ahmedelhadi17"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png"></a>&nbsp;&nbsp;
+  <a href="mailto:ahmedelhadi1777@gmail.com">
+  <img height="30" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail"/>
+</a>
+
+
+</p>
