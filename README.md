@@ -49,7 +49,7 @@
 
 ## 📌 Featured Projects
 - 🔹 **[Compass](https://github.com/ahmedelhadi17776/Compass)** — LLM-powered multi-agent platform with RAG pipelines & ETL (1M+ records/day).  
-- 🔹 **Smart Irrigation System** — IoT+ML system reducing water use by 35%, published in IEEE.  
+- 🔹 **[Smart Irrigation System](https://ieeexplore.ieee.org/document/10296736)** — IoT+ML system reducing water use by 35%, published in IEEE.  
 - 🔹 **AI-Powered Arabic Summarization** — Low-resource NLP pipeline, ICMTC finalist.  
 
 ---
