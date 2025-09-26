@@ -40,7 +40,6 @@
 **Databases & Cloud**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mangodb/mangodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
