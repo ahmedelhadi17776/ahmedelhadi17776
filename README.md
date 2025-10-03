@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack  
 
 **Languages & Frameworks**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
