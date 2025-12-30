@@ -61,13 +61,6 @@
 - 🥉 Hackathon Placements — AUC, MOHESR, Climathon  
 - 🌍 Founder & Organizer — 15+ workshops, hackathons, 300+ participants  
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ahmedelhadi17776&show_icons=true&theme=tokyonight"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelhadi17776&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
