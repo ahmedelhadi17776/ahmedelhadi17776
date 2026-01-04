@@ -71,15 +71,6 @@
 
 ---
 
-## 📄 View My CV
-<p align="center">
-  <a href="https://drive.google.com/file/d/1Ry4k8Xz4Mdt2xo_EzWULrwar3ERXiF0M/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/>
-  </a>
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:ahmedelhadi1777@gmail.com">
