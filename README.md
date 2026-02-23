@@ -23,7 +23,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
@@ -31,7 +30,6 @@
 
 **AI / ML & Data**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code>
