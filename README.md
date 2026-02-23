@@ -32,7 +32,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>  
 
 **Databases & Cloud**  
