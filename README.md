@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmedelhadi17" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+ML+Engineer;Backend+Developer;System+Designer;Always+Learning+%26+Building!&center=true&color=30A0F0&pause=2000&size=22" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+LLM+Engineer;Backend+Engineer;System+Designer;Always+Learning+%26+Building!&center=true&color=30A0F0&pause=2000&size=22" alt="Typing SVG"/>
   </a>
 </p>
 
